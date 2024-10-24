@@ -9,3 +9,4 @@
 My Operating Systems
 
 - 🐧 GNU/Linux family
+https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
