@@ -1,4 +1,4 @@
-- 👋 Hi, hej, olá, bonjour, hola..... I’m Erick :)
+![debian-original](https://github.com/user-attachments/assets/108b90c5-9c66-49b5-9c92-8ad530fe3ce2)- 👋 Hi, hej, olá, bonjour, hola..... I’m Erick :)
 - 🌱 Iweb scraping, backend development, algorithms and more!
 - 📫 My personal email is erickfania@gmail.com.
 - ☀️ I speak fluent English and Spanish from born :V
@@ -8,5 +8,6 @@
 
 My Operating Systems
 
-- 🐧 GNU/Linux family
-[https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg)
+![Fedora](https://github.com/user-attachments/assets/4bba2641-50b3-4b54-afcc-47f4f115aceb)
+
+![debian-original-wordmark](https://github.com/user-attachments/assets/8cdca14e-79de-4e37-ad41-0a8643b7b08f)
