@@ -2,7 +2,7 @@
 - 🌱 Backend development.
 - 📫 Personal email: erickfania@gmail.com
 - ☀️ I speak fluent English and Spanish from born :V
-- 🥁🎵💤 Drummer/percussion
+- 🥁🎵💤 Drummer/percussion. Trombone in process 🎺
 - ⚾🐯 Baseball lover
 
   
