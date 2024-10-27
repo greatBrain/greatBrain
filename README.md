@@ -1,5 +1,5 @@
-👋 Hi, hej, olá, bonjour, hola, KELOKE..... I’m Erick :)
-- 🌱 Backend development.
+👋 Hi, hej, olá, bonjour, hola, KELOKE..... I’m Erick
+- 🌱 Backend development with a small knowledge of frontend :).
 - 📫 Personal email: erickfania@gmail.com
 - ☀️ I speak fluent English and Spanish from born :V
 - 🥁🎵💤 Drummer/percussion. Trombone in process 🎺
