@@ -16,9 +16,8 @@ My favorit Operating Systems 😍
 
 
 Technologies
-
-![java](https://github.com/user-attachments/assets/2385dd91-416c-43d2-8e81-9923b0b036fe)
 ![pngwing com](https://github.com/user-attachments/assets/6accdc06-1bf7-4a17-ae69-9b015608ea8b)
+![java](https://github.com/user-attachments/assets/2385dd91-416c-43d2-8e81-9923b0b036fe)
 ![pngwing com (1)](https://github.com/user-attachments/assets/22146795-0d7f-41e4-9023-456f6074ce0c)
 ![pngwing com](https://github.com/user-attachments/assets/d49cbc87-f79c-4cb9-8aaa-5f29fe251099)
 ![pngwing com](https://github.com/user-attachments/assets/d44ffd22-684a-4788-a809-e9f7669360bf)
