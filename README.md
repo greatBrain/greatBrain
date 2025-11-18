@@ -21,10 +21,3 @@ Technologies
 ![pngwing com (1)](https://github.com/user-attachments/assets/22146795-0d7f-41e4-9023-456f6074ce0c)
 ![pngwing com](https://github.com/user-attachments/assets/d49cbc87-f79c-4cb9-8aaa-5f29fe251099)
 ![pngwing com](https://github.com/user-attachments/assets/d44ffd22-684a-4788-a809-e9f7669360bf)
-
-
-Tools/editors
-
-![pngwing com (1)](https://github.com/user-attachments/assets/d15bdaa7-4b2b-4d13-8a99-6672d351f8d2)
-![pngwing com](https://github.com/user-attachments/assets/ec60f80d-8da9-4bcd-9da5-e283f8b68599)
-![pngwing com (1)](https://github.com/user-attachments/assets/47626f80-d20f-4d39-ad49-5a9932f3fb20)
