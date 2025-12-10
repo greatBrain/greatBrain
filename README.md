@@ -1,14 +1,11 @@
-👋 Hi, hej, olá, bonjour, hola, KELOKE..... I’m Erick
-- 🌱 Backend development, Data Engineering in process. With a chunk of knowledge of frontend :(
+👋 Hi, hej, olá, bonjour, hola,.. I’m Erick Faña
+- 🌱 Backend development, Data Engineering in process. With knowledge in frontend. 
 - 📫 Personal email: erickfania@gmail.com
-- ☀️ I speak fluent English and Spanish from born :V
-- 🥁🎵💤 Drummer/percussion. Trombone in process 🎺
-- ⚾🐯 Baseball lover
-
+- ☀️ I speak fluent English and Spanish from born.
   
 
 
-My favorit Operating Systems 😍
+Most used Operating Systems
 
 ![Fedora](https://github.com/user-attachments/assets/4bba2641-50b3-4b54-afcc-47f4f115aceb) 
 ![pngwing com (1)](https://github.com/user-attachments/assets/96363cf4-ff11-4e0f-90a5-936204b91dac)
